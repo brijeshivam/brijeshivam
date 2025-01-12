@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brijesh
-- 👀 I’m interested in Android app development, Web developement.
-- 🌱 I’m currently learning Android Studio
+- 👀 I’m interested in Web developement.
+- 🌱 I’m currently learning Next js
 - 📫 Email - brijeshivam@gmail.com
 
 <!---
